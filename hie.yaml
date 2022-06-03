@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "cortesuprema:lib"
+
+    - path: "./test"
+      component: "cortesuprema:test:cortesuprema-test"
